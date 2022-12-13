@@ -1,4 +1,4 @@
-<h1>Interactive Google maps : Plante.fr   </h1>
+<h1>Interactive Google maps : Findplant  </h1>
 
 Version Desktop
 <p align="center">
