@@ -12,7 +12,7 @@ Version Mobile
 
 __GitHub: @Pierregarnr__      
 __LinkedIn: [@Pierre Garnier](https://www.linkedin.com/in/pierre-garnier-50650824b/)__    
-Ceci est une carte interactive où l'on peut marquer des positions ou l'on a aperçu une nouvelle plante. Le point marqué est sauvegardé et indique l'heure exacte de quand la plante a été trouvée. Grâce à l'autocomplétion, vous pouvez retrouver un lieu en tapant directement dans la barre de recherche. Une icône de position en haut à droite, recentralise la carte sur votre position.
+FindPlant est une carte interactive où l'on peut marquer des positions où l'on a aperçu une nouvelle plante. Le point marqué est sauvegardé et indique l'heure exacte de quand la plante a été trouvée. Grâce à l'autocomplétion, vous pouvez retrouver un lieu en tapant directement dans la barre de recherche. Une icône de position en haut à droite, recentralise la carte sur votre position.
 
 Cette application a été réalisée en React.js et repose sur l'API Google maps .
 
